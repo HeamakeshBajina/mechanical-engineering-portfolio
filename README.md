@@ -1,4 +1,4 @@
-# mechanical-engineering-portfolio
+# Mechanical Engineering Portfolio
 
 > A documented journey from complete beginner to aspiring Mechanical Engineer.
 
@@ -27,7 +27,7 @@ Every project in this repository is built as part of a structured learning curri
 
 # Learning Roadmap
 
-## Phase 1 — Tinkercad 3D Design
+## Part 1 — Tinkercad 3D Design
 
 Learning engineering CAD fundamentals by designing mechanical parts and everyday objects.
 
@@ -45,7 +45,7 @@ Planned projects include:
 
 ---
 
-## Phase 2 — Tinkercad Circuits
+## Part 2 — Tinkercad Circuits
 
 Learning electronics through simulation.
 
@@ -64,7 +64,7 @@ Topics include:
 
 ---
 
-## Phase 3 — Arduino
+## Part 3 — Arduino
 
 Programming embedded systems using Arduino.
 
@@ -80,7 +80,7 @@ Topics include:
 
 ---
 
-## Phase 4 — Integrated Engineering Projects
+## Part 4 — Integrated Engineering Projects
 
 Combining CAD, electronics, and programming to build complete engineering systems.
 
