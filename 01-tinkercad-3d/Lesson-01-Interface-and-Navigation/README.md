@@ -58,3 +58,19 @@ Recommended screenshots:
 ## Reflection
 
 This lesson focused on becoming comfortable navigating a CAD environment before beginning engineering design. Efficient camera control is an essential skill that improves accuracy and productivity when creating more complex mechanical components.
+
+
+---
+
+## Progress
+
+| Item | Status |
+|------|--------|
+| Workspace Navigation | ✅ |
+| Orbit | ✅ |
+| Pan | ✅ |
+| Zoom | ✅ |
+| ViewCube | ✅ |
+| Basic Shape Placement | ✅ |
+
+**Lesson Status:** ✅ Completed
