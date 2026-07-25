@@ -8,7 +8,7 @@ ________________
 
 ## Time Spent
 
-Approximately ______ minutes
+Approximately 30 minutes
 
 ---
 
